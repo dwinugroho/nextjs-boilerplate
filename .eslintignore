@@ -1,3 +1,5 @@
 # testing
 coverage
 src/utils/env
+postcss.config.js
+next.config.js

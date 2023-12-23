@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan
 
-## Getting Started
+![Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan](https://og.krafan.com/api?title=Next.js+14+TypeScript+Tailwind+Boilerplate+%F0%9F%9A%80+by+Krafan&information=nextjs-boilerplate.krafan.com)
 
-First, run the development server:
+Hey there! 👋 Welcome to the **NextJS 14** Boilerplate – your kickstart for building awesome web applications with the latest and greatest technologies. I'm [dwinugroho](https://github.com/dwinugroho), your friendly frontend developer, and I've crafted this repository to serve as the perfect foundation for my personal projects. Feel free to use it for your own endeavors as well! 🌟
+
+**Table of Contents**
+- [Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan](#nextjs-14-typescript-tailwind-boilerplate--by-krafan)
+  - [Features 🛠️](#features-️)
+  - [Getting Started 🚀](#getting-started-)
+  - [Contributing 🤝](#contributing-)
+  - [License 📄](#license-)
+
+## Features 🛠️
+
+- **NextJS 14**: Harness the power of the latest Next.js version, bringing you enhanced performance and exciting new features.
+- **AppRoute Structure**: Leverage the intuitive AppRoute pattern for organized and scalable routing in your Next.js applications.
+- **Tailwind CSS**: Stay on the cutting edge of styling with Tailwind CSS version 3, providing a utility-first approach for building modern designs.
+- **TypeScript**: Enjoy the benefits of static typing and improved developer experience with TypeScript.
+- **ESLint**: Keep your codebase clean and consistent with ESLint, ensuring high-quality code standards.
+- **Prettier**: Maintain code readability and aesthetics effortlessly with Prettier.
+- **Lint-Staged**: Optimize your workflow by running ESLint on pre-committed files with lint-staged.
+- **Husky**: Enforce quality checks and prevent bad commits with Husky, your Git hooks guardian.
+- **Commitizen**: Make your commits more meaningful and standardized with Commitizen.
+
+## Getting Started 🚀
+
+Clone the Repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/dwinugroho/nextjs-typescript-tailwind.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Install Dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  cd nextjs-typescript-tailwind
+  yarn install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Run the Development Server:
 
-## Learn More
+```bash
+  yarn dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing 🤝
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions are more than welcome! Whether it's bug fixes, new features, or improvements, feel free to open issues and pull requests. Let's build this boilerplate together! 🌈
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License 📄
 
-## Deploy on Vercel
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel the excitement of Next.js 14 and elevate your web development experience with this feature-packed boilerplate! Happy coding! 🚀✨🌈🎉
