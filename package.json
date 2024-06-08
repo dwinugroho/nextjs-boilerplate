@@ -24,6 +24,8 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "commitizen": "^4.3.0",
+    "global": "^4.4.0",
     "lucide-react": "^0.390.0",
     "next": "14.2.3",
     "next-themes": "^0.3.0",
@@ -60,5 +62,8 @@
     "ts-jest": "^29.1.4",
     "ts-node": "^10.9.2",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
