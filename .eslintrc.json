@@ -1,3 +1,40 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
+  "overrides": [
+    {
+      "files": [
+        "*.js",
+        "*.jsx",
+        "*.ts",
+        "*.tsx",
+        "*.cjs",
+        "*.mjs",
+        "*.mts",
+        "*.cts"
+      ],
+      "rules": {
+        "simple-import-sort/imports": [
+          2,
+          {
+            "groups": [["^@?\\w"], ["^[\\w]"], ["^"], ["^\\."]]
+          }
+        ]
+      }
+    }
+  ],
+  "plugins": ["simple-import-sort", "unused-imports"],
+  "rules": {
+    "simple-import-sort/imports": 2,
+    "simple-import-sort/exports": 2,
+    "unused-imports/no-unused-imports": 2,
+    "unused-imports/no-unused-vars": [
+      2,
+      {
+        "vars": "all",
+        "varsIgnorePattern": "^_",
+        "args": "after-used",
+        "argsIgnorePattern": "^_"
+      }
+    ]
+  }
 }
