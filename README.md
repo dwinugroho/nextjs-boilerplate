@@ -1,12 +1,12 @@
-# Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan
+# Next.js Boilerplate 🚀 by Krafan
 
-![Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan](https://og.krafan.com/api?title=Next.js+14+TypeScript+Tailwind+Boilerplate+%F0%9F%9A%80+by+Krafan&information=nextjs-boilerplate.krafan.com)
+![Next.js Boilerplate 🚀 by Krafan](https://og.krafan.com/api?title=Next.js+Boilerplate+%F0%9F%9A%80+by+Krafan&information=nextjs-boilerplate.krafan.com)
 
 Hey there! 👋 Welcome to the **NextJS 14** Boilerplate – your kickstart for building awesome web applications with the latest and greatest technologies. I'm [dwinugroho](https://github.com/dwinugroho), your friendly frontend developer, and I've crafted this repository to serve as the perfect foundation for my personal projects. Feel free to use it for your own endeavors as well! 🌟
 
 **Table of Contents**
 
-- [Next.js 14 TypeScript Tailwind Boilerplate 🚀 by Krafan](#nextjs-14-typescript-tailwind-boilerplate--by-krafan)
+- [Next.js Boilerplate 🚀 by Krafan](#nextjs-boilerplate--by-krafan)
   - [Features 🛠️](#features-️)
   - [Getting Started 🚀](#getting-started-)
   - [Contributing 🤝](#contributing-)
@@ -32,13 +32,13 @@ Hey there! 👋 Welcome to the **NextJS 14** Boilerplate – your kickstart for 
 Clone the Repository:
 
 ```bash
-  git clone https://github.com/dwinugroho/nextjs-typescript-tailwind.git
+  git clone https://github.com/dwinugroho/nextjs-boilerplate.git
 ```
 
 Install Dependencies:
 
 ```bash
-  cd nextjs-typescript-tailwind
+  cd nextjs-boilerplate
   yarn install
 ```
 
